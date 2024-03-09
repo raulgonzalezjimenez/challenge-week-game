@@ -1,3 +1,3 @@
 import { gamearrays } from './game.js';
 
-setInterval(gamearrays, 4000);
+setInterval(gamearrays, 500);
